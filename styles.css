@@ -1,0 +1,11 @@
+*{
+margin: 0;padding: 0;
+box-sizing: border-box;}
+.container{background-color: rgb(58, 255, 239);
+padding: 10px; margin: 50px;
+display: flex;
+flex-direction: column-reverse; justify-content: center; align-items: flex-start; flex-direction: row;
+}
+
+.item{background-color: rgb(255, 39, 237);
+color: blanchedalmond;font-size: 35px;padding: 20px;margin: 10px;justify-content: center;}
